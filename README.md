@@ -86,4 +86,4 @@ Use a sub-query to determine the Community Area Name with most number of crimes?
 
 ---
 
-<center> - <a href="#top">Back to Top</a> - </center>
+<p align="center"> - <a href="#top">Back to Top</a> - </p>
