@@ -25,7 +25,7 @@ List community area names and numbers with per capita income less than 11000.
 
 ### Problem 3
 List all case numbers for crimes involving a child?
-|![screenshot 3](https://github.com/wy-chan/Databases-and-SQL-for-Data-Science-with-Python-IBM/blob/main/screenshots/Q3.png)|
+|![screenshot 3](https://github.com/wy-chan/Databases-and-SQL-for-Data-Science-with-Python-IBM/blob/main/screenshots/Q3A.png)|
 | --- |
 
 ---
@@ -48,7 +48,7 @@ List the kind of crimes that were recorded at schools. (No repetitions)
 
 ### Problem 6
 List the type of schools along with the average safety score for each type.
-|![screenshot 6](https://github.com/wy-chan/Databases-and-SQL-for-Data-Science-with-Python-IBM/blob/main/screenshots/Q6.png)|
+|![screenshot 6](https://github.com/wy-chan/Databases-and-SQL-for-Data-Science-with-Python-IBM/blob/main/screenshots/Q6A.png)|
 | --- |
 
 
