@@ -3,7 +3,7 @@
 
 
 
-| → [Completed Notebook](https://github.com/wy-chan/Databases-and-SQL-for-Data-Science-with-Python-IBM/blob/main/mod5_final_project.ipynb) |
+| → [Completed Notebook](https://github.com/wy-chan/Databases-and-SQL-for-Data-Science-with-Python-IBM/blob/main/SQL_final_project.ipynb) |
 | --- |
 
 ---
